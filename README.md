@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+Research Scientist working on parallel distributed programming models, communication libraries for high-performance computing, and low-level performance optimizations.
 
 <!--
 **devreal/devreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
